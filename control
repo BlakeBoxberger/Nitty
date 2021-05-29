@@ -1,0 +1,9 @@
+Package: com.neinzedd9.nitty
+Name: Nitty
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Version: 0.0.3~test
+Architecture: iphoneos-arm
+Description: Give life to your iPhone X's status bar clock!
+Maintainer: NeinZedd9
+Author: NeinZedd9
+Section: Tweaks
